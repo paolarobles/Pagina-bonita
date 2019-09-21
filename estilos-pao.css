@@ -1,0 +1,94 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+ background-color: #ebeae9;
+ font-family: 'Roboto', sans-serif;
+ color: black;
+ margin: 30px;
+
+}
+
+.upcoming h1{
+    font-weight: bold;
+    font-size: 50px;
+    border-bottom-style: solid;
+    border-bottom-color: black;
+    border-bottom-width: 1px;
+    padding-bottom: 10px;
+}
+
+.Powaqqatsi{
+
+    height: 300px;
+    width: 100%;
+    border-bottom-style: solid;
+    border-bottom-color: black;
+    border-bottom-width: 1px;
+    display: flex;
+    padding: 20px 0px;
+    
+}
+
+.texto{
+
+    width: 50%;
+    background-color: blue;
+    padding: 15px;
+}
+
+.texto h5{
+    font-size: 38px;
+}
+
+.texto h3{
+    font-size: 30px;
+    font-weight: lighter;
+    
+}
+
+.texto sup{
+    font-size: 13px;
+    font-weight: lighter;
+}
+
+.texto h6{
+    font-size: 15px;
+
+    margin-left: 375px;
+    margin-bottom: 200px;
+    transform: rotate(-90deg);
+
+}
+
+.foto{
+    width: 50%;
+    background-color: red;
+    border-left-style: solid;
+    border-left-color: black;
+    border-left-width: 1px;
+    margin-left: 5px;
+    padding: 15px;
+
+}
+
+.foto h5{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.foto h4{
+    font-size: 18px;
+}
+
+.foto img{
+    width: 320px;
+    margin-top: 60px;
+
+}
+
+
+
+
