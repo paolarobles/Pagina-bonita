@@ -1,0 +1,30 @@
+.start
+{
+    display: flex;
+}
+
+.fecha
+{
+    padding-top: 500px;
+    font-size: 22px;
+    font-weight: bold;
+    border: solid;
+    border-width: 5px;
+    height: 1px;
+
+    
+
+
+
+}
+
+.half
+{
+    width: 50%;
+
+}
+.color
+{
+
+
+}
