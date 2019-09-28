@@ -32,6 +32,16 @@ body{
     
 }
 
+.Visitors{
+
+    height: 300px;
+    width: 100%;
+    
+    display: flex;
+    padding: 20px 0px;
+    
+}
+
 .texto{
 
     width: 50%;
@@ -83,10 +93,36 @@ body{
 
 .foto img{
     width: 320px;
-    margin-top: 60px;
+    margin-top: 22px;
 
 }
 
+.foto .iconos img{
+    width: 25px;
+    margin-top: 8px;
+}
+
+.foto2 img{
+    width: 320px;
+    margin-top: 58px;
+
+}
+
+.Past h1{
+    font-weight: bold;
+    font-size: 40px;
+    padding-top: 100px;
+    
+}
+
+
+.Past h2{
+    font-weight: lighter;
+    font-size: 30px; 
+    color: darkred;
+    margin-top: 0;
+    padding-bottom: 30px;
+}
 
 
 
