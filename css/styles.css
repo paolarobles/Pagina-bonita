@@ -3,28 +3,67 @@
     display: flex;
 }
 
-.fecha
-{
-    padding-top: 500px;
-    font-size: 22px;
-    font-weight: bold;
-    border: solid;
-    border-width: 5px;
-    height: 1px;
-
-    
-
-
-
-}
-
 .half
 {
     width: 50%;
+}
+
+.circulo{
+    display: inline;
+}
+
+.fecha
+{    
+    border-top-style: solid;
+    border-top-color: black;
+    display: inline-block;
+    width: 730px;
+    border-top-width: 1px;
+    margin-top: 55%;
+    padding-right: 20px;
+    font-family:'Arial Narrow'
+}
+
+.text{
+
+  font-family: Helvetica, sans-serif;
+  position: relative;
+  text-align: justify;
+  margin: auto;
+  padding-bottom: 20px;
+
+
 
 }
-.color
-{
+
+body{
+    margin: 50px;
 
 
+}
+
+.leer{
+    
+       
+        border-color: black;
+        color:black;
+        padding: 7px 15px;
+        text-align: center;
+        display: inline-block;
+        font-size: 16px;
+}
+.text2{
+
+    font-family: Helvetica, sans-serif;
+    position: relative;
+    text-align: justify;
+    margin: auto;
+    padding-bottom: 20px;
+    color:red;
+}
+.more{
+
+    font-weight: 100px;
+    font-family: 'Arial Narrow';
+    color:rgb(155, 155, 155);
 }
